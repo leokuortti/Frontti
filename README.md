@@ -1,6 +1,6 @@
 # Muistiinpanosovellus
 
-Tämä on yksinkertainen Reactilla tehty web-sovellus, jolla voi:
+Tämä on web-sovellus, jolla voi:
 - lisätä uusia opintojaksoja
 - tehdä muistiinpanoja valitulle opintojaksolle
 - muistiinpanot tallentuvat sessiokohtaisesti
@@ -19,9 +19,9 @@ Tämä on yksinkertainen Reactilla tehty web-sovellus, jolla voi:
    http://localhost:5173
 
 # Miten käytin tekoälyä:
-
-- käytin sitä koodin siistimiseen, jotta se näyttäisi kivemmalta
+- 
 - jos tuli error viesti jota en itse tajunnut tai osannut ratkaista, kysyin tekoälyltä, että mikä on pielessä
 - layoutin suunnittelussa, kysyin siltä mahdollisia ideoita ja valitsin ja tein sen mistä pidin eniten
 - hieman visuaalisuudessa, koska en muistanut jostain syystä ulkoa miten sai tehtyä List notes sivulle muistiinpanot ruudun sisälle jotta ne näyttivät siistimmältä
-- en onnistunut kunnolla tuossa muistiinpanojen listauksessa filteröinnin tekemisessä 
+- en onnistunut kunnolla tuossa muistiinpanojen listauksen filteröinnin tekemisessä, joten kysyin tekoälyltä mahdollisian tapoja tehdä se, jonka jälkeen se antoi minulle pohjan/alun koodiin jota sitten itse jatkoin ja muokkasin sopivaksi
+- lopuksi käytin sitä koodin siistimiseen, jotta se näyttäisi kivemmalta
