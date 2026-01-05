@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.app {
+  padding: 16px;
+  font-family: system-ui, Arial, sans-serif;
+}
+
+.app-header {
+  margin-bottom: 16px;
+}
+
+button {
+  padding: 10px 12px;
+  cursor: pointer;
+}
